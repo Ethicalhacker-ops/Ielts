@@ -1,0 +1,18 @@
+
+---
+
+### **Step 3: Upload and Deploy on GitHub**
+
+You are now ready to publish your website.
+
+1.  **Go to GitHub.com** and create a new public repository.
+2.  **Upload Files:** Click the "Add file" button and then "Upload files."
+3.  **Select Files:** Drag and drop your `index.html`, `README.md`, and `.gitignore` files into the browser window.
+4.  **Commit Changes:** Add a short message (e.g., "Initial commit") and click the "Commit changes" button.
+5.  **Activate GitHub Pages:**
+    *   Go to your new repository's **Settings** tab.
+    *   Navigate to the **Pages** section on the left.
+    *   Under "Build and deployment," choose the `main` branch as your source.
+    *   Click **Save**.
+
+GitHub will now build and deploy your website. After a minute or two, it will be live at the URL shown on the Pages settings screen. You will have a professional, working website with a live chat and a contact form that sends inquiries directly to your email.
